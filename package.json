@@ -1,0 +1,25 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "phong",
+  "license": "ISC",
+  "description": "How to npm",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.3",
+    "ls": "^0.2.1",
+    "npm_module": "0.0.0",
+    "publish": "^0.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phong97/npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Phong97/npm/issues"
+  },
+  "homepage": "https://github.com/Phong97/npm#readme"
+}
